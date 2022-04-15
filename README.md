@@ -4,8 +4,8 @@
 </br>Disclaimer, I am more active in my organization's repos. I usually work on Ansible playbooks for automation and Jenkins pipelines, if I need more flexibility, I jump to Python or Go. Getting hands-on experience of Openshift and container administration.
 <div align="center"><br>
   <a href="https://github.com/S3B4SZ17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S3B4SZ17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3B4SZ17&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S3B4SZ17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3B4SZ17&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
   <h2>🏆 GitHub Trophies</h2>
