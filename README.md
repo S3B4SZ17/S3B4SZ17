@@ -22,5 +22,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3B4SZ17&theme=blue-green&langs_count=5&hide_border=true"/>
 
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=S3B4SZ17&theme=blue-green&hide_border=true&date_format=(M%20j%5B%2C%20Y%5D)" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=S3B4SZ17&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" >
 
