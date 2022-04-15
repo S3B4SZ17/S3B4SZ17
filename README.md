@@ -1,6 +1,6 @@
 <img align="center" alt="S3B4SZ17-msqlserver"  src="https://komarev.com/ghpvc/?username=S3B4SZ17&style=flat-square">
 - 👋 Hi my name is Sebastian Zumbado H</br>
-- 👀 Currently, I am getting my bachelors degree in Systems and Computer Engineering. I also work as a DevOps Engineer for CloudPak for Security at IBM  </br>
+- 👀 Currently, I am getting my bachelors degree in Systems and Computer Engineering. I also work as a DevOps Engineer CloudPak for Security at IBM  </br>
 - Disclaimer, I am more active in my organization's repos. I usually work on Ansible playbooks for automation and Jenkins pipelines, if I need more flexibility, I jump to Python or Go. Getting hands-on experience of Openshift and container administration.
 <h2>👨‍💻 Technologies I work with</h2>
 <div align="center"><br>
