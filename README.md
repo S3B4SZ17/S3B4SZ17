@@ -9,7 +9,7 @@
 
 </div>
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=S3B4SZ17&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=S3B4SZ17&theme=dark&hide_border=true&date_format=(M%20j%5B%2C%20Y%5D)" >
 
 <div style="display: inline_block"><br>
   <img align="center" alt="benccalcyxzfi-dotnet" src="https://img.shields.io/badge/DevSecOps-blue?style=for-the-badge&logo=devops&logoColor=white">
