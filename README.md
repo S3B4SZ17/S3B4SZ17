@@ -1,7 +1,5 @@
 <img align="center" alt="S3B4SZ17-msqlserver"  src="https://komarev.com/ghpvc/?username=S3B4SZ17&style=flat-square">
 - 👋 Hi my name is Sebastian Zumbado H</br>
-- 👀 Currently, I am getting my bachelors degree in Systems and Computer Engineering. I also work as a DevOps Engineer CloudPak for Security at IBM  </br>
-- Disclaimer, almost all of my projects I keep them private LOL, and I am more active in my organization's repos obviously. I usually work on Ansible playbooks for automation and Jenkins pipelines, if I need more flexibility, I jump to Python or Go. Getting hands-on experience of Openshift and container administration.
 <h2>👨‍💻 Technologies I work with</h2>
 <div align="center"><br>
   <a href="https://github.com/S3B4SZ17">
@@ -10,7 +8,7 @@
   <img align="center" alt="benccalcyxzfi-dotnet" src="https://img.shields.io/badge/DevSecOps-blue?style=for-the-badge&logo=devops&logoColor=white">
   <img align="center" alt="Ansible"  src="https://img.shields.io/badge/Ansible-239120?style=for-the-badge&logo=ansible&logoColor=white">
   <img align="center" alt="Openshift"  src="https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform&logoColor=white">
-  <img align="center" alt="benccalcyxzfi-css"  src="https://img.shields.io/badge/Openshift-red?&style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img align="center" alt="Kubernetes"  src="https://img.shields.io/badge/Openshift-red?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img align="center" alt="Jenkins"  src="https://img.shields.io/badge/Jenkins-ff69b4?style=for-the-badge&logo=jenkins&logoColor=white">
   <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
   <img align="center" alt="Git"  src="https://img.shields.io/badge/Git-0769AD?style=for-the-badge&logo=git&logoColor=white">
