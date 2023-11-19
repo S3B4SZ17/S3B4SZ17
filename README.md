@@ -1,5 +1,6 @@
 <img align="center" alt="S3B4SZ17-msqlserver"  src="https://komarev.com/ghpvc/?username=S3B4SZ17&style=flat-square">
 - 👋 Hi my name is Sebastian Zumbado H</br>
+<a href="https://app.daily.dev/sebastianzumbado"><img src="https://api.daily.dev/devcards/ac1dd421409342cb8b159a0a1912ece1.png?r=mjj" width="400" align="right" alt="Sebastian Zumbado's Dev Card"/></a>
 <h2>👨‍💻 Technologies I work with</h2>
 <div align="center"><br>
   <a href="https://github.com/S3B4SZ17">
